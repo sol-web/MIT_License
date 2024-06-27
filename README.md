@@ -1,2 +1,5 @@
 # MIT_License
-MIT ë¼ì´ì„ ìŠ¤ ë¯¸ì…˜
+MIT ?¼ì´? ìŠ¤ ë¯¸ì…˜
+
+# erro
+±ÛÀÚ ±úÁü Çö»ó ÇØ°á ¹Ù¶÷
